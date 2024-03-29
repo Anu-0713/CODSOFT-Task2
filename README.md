@@ -17,15 +17,10 @@ Tic Tac Toe is a two-player game where players take turns marking spaces on a 3x
 ## How to Play
 
 1. Clone the repository to your local machine.
-2. Run the `tic_tac_toe.py` script in your Python environment.
+2. Run the `Tic-Tac-Toe-AI.py` script in your Python environment.
 3. Follow the prompts to input your moves when it's your turn.
 4. The AI player will respond with its move, and the game continues until there's a winner or a tie.
 
 ## Dependencies
 
 This project requires Python 3.x to run.
-
-## Usage
-
-```bash
-python tic_tac_toe.py
